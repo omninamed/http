@@ -1,8 +1,9 @@
 {
     "name": "omninamed/http",
-    "version": "1.0",
-    "type": "library",
     "description": "Simple HTTP client.",
+    "type": "library",
+    "version": "1.0",
+    "stability": "stable",
     "keywords": [
         "http",
         "client"
