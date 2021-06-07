@@ -2,9 +2,6 @@
 
 namespace Http;
 
-require_once 'services/api/Http/IRequest.php';
-require_once 'services/api/Http/CMessage.php';
-
 /**
  * Реализация интерфейса IRequest
  * Представляет HTTP запрос.
