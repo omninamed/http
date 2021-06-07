@@ -2,9 +2,6 @@
 
 namespace Http;
 
-require_once 'services/api/Http/IResponse.php';
-require_once 'services/api/Http/CMessage.php';
-
 /**
  * Реализация интерфейса IResponse
  * Представляет HTTP ответ.
