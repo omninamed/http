@@ -2,8 +2,6 @@
 
 namespace Http;
 
-require_once 'services/api/Http/IMessage.php';
-
 /**
  * Реализация интерфейса IMessage
  * Представляет HTTP сообщение.
