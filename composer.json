@@ -1,19 +1,24 @@
 {
     "name": "omninamed/http",
-    "description": "Simple http client.",
+    "type": "library",
+    "description": "Simple HTTP client.",
+    "keywords": [
+        "http",
+        "client"
+    ],
     "authors": [
         {
             "name": "omninamed",
-            "email": ""
+            "email": "",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=7.2"
     },
     "autoload": {
-        "psr-4": {
-            "Http\\": "src/" 
+        "psr-0": {
+            "Http": "src"
         }
     }
 }
