@@ -2,8 +2,6 @@
 
 namespace Http;
 
-require_once 'services/api/Http/IMessage.php';
-
 /**
  * Интерфейс HTTP запроса.
  * Все реализации set-методов ДОЛЖНЫ возвращать $this
