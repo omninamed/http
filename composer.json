@@ -1,7 +1,6 @@
 {
     "name": "omninamed/http",
     "description": "Simple http client.",
-    "license": "free",
     "authors": [
         {
             "name": "omninamed",
