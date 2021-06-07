@@ -2,10 +2,6 @@
 
 namespace Http;
 
-require_once 'services/api/Http/IClient.php';
-require_once 'services/api/Http/IRequest.php';
-require_once 'services/api/Http/CResponse.php';
-
 /**
  * Реализация интерфейса IClient
  * Представляет HTTP клиент.
