@@ -1,0 +1,20 @@
+{
+    "name": "omninamed/http",
+    "description": "Simple http client.",
+    "license": "free",
+    "authors": [
+        {
+            "name": "omninamed",
+            "email": ""
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Http\\": "src/" 
+        }
+    }
+}
