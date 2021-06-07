@@ -2,9 +2,6 @@
 
 namespace Http;
 
-require_once 'services/api/Http/IRequest.php';
-require_once 'services/api/Http/IResponse.php';
-
 /**
  * Интерфейс HTTP клиента.
  * Все реализации set-методов ДОЛЖНЫ возвращать $this
